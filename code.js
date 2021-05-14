@@ -2,7 +2,7 @@
 
 'use strict';
 
-if (4==119){
+if (4==4){
     console.log('Ok!');
 } else{
     console.log('errror');
