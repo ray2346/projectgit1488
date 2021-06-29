@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="24bfa9e7-b188-4c3a-b9f2-199e96743d03" name="Default Changelist" comment="" />
+    <list default="true" id="24bfa9e7-b188-4c3a-b9f2-199e96743d03" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +21,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Food" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -38,16 +42,37 @@
       <option name="presentableId" value="Default" />
       <updated>1607471973918</updated>
       <workItem from="1607471982037" duration="3177000" />
+      <workItem from="1624890733133" duration="591000" />
     </task>
+    <task id="LOCAL-00001" summary="заебавшееся тень">
+      <created>1624890825963</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624890825963</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="заебавшееся тень" />
+    <option name="LAST_COMMIT_MESSAGE" value="заебавшееся тень" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="82" y="113" width="1350" height="638" key="dock-window-1" timestamp="1607472102059">
+    <state x="383" y="106" key="CommitChangelistDialog2" timestamp="1624890824357">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="82" y="113" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1607472102059" />
+    <state x="383" y="106" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624890824357" />
+    <state x="525" y="216" key="FileChooserDialogImpl" timestamp="1624891325934">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="525" y="216" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1624891325934" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1624890858646">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1624890858646" />
   </component>
 </project>
