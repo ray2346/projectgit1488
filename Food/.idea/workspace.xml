@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e810606-397f-41c0-bde6-30bf21cd96d3" name="Default Changelist" comment="Ферст">
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/Food.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/Group 5.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/icons/veg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/food-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/olive-oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/paprika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/slider/pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tabs/elite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tabs/hamburger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tabs/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/img/tabs/vegy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gulpfile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/facebook.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/instagram.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/left.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/right.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/switch.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/icons/veg.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/slider/food-12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/slider/olive-oil.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/slider/paprika.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/slider/pepper.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tabs/elite.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tabs/hamburger.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tabs/post.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/img/tabs/vegy.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/calculating/_calculating.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/footer/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/header/_header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/menu/_menu.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/modal/_modal.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/offer/_offer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/order/_order.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/preview/_preview.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/promotion/_promotion.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/blocks/sidepanel/_sidepanel.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/scss/variables/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Антон" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1ua6PWZbW4gbg1spWorwEGwhyTG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Food_dist" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e810606-397f-41c0-bde6-30bf21cd96d3" name="Default Changelist" comment="" />
+      <created>1624891328807</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1624891328807</updated>
+      <workItem from="1624891331185" duration="1861000" />
+      <workItem from="1624902994857" duration="629000" />
+      <workItem from="1624998282808" duration="1268000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Ферст" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ферст" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="386" y="106" key="CommitChangelistDialog2" timestamp="1624892283644">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="386" y="106" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1624892283644" />
+    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1625001098914">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1625001098914" />
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom" timestamp="1624893209415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1624893209415" />
+    <state width="1515" height="210" key="GridCell.Tab.0.center" timestamp="1624893209415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1624893209415" />
+    <state width="1515" height="210" key="GridCell.Tab.0.left" timestamp="1624893209415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1624893209415" />
+    <state width="1515" height="210" key="GridCell.Tab.0.right" timestamp="1624893209415">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1515" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1624893209415" />
+  </component>
+</project>
